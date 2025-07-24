@@ -78,7 +78,7 @@ portfolio‑tracker/
 ├── README.md
 ├── Instructions_Manual.md
 └── LICENSE           
-
+```
 ---
 
 ## Usage Overview
