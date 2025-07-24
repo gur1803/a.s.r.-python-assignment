@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+yfinance
+alpha‑vantage      # optional – only if you set your API key
+arch
+plotly
+tqdm
